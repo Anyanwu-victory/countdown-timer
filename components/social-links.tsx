@@ -2,6 +2,7 @@
 export default function SocialLinks() {
   return (
     <div className="flex space-x-6">
+      {/* Facebook social Links */}
       <a
         href="https://m.facebook.com"
         className="text-[#fb6087] hover:text-white transition-colors"
