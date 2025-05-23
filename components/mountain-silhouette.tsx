@@ -10,7 +10,7 @@ export default function MountainSilhouette() {
        height={100}
        src={patternHill}
        alt="Image hill"
-       className ="w-full"
+       className ="w-full h-full"
       />
   
     </div>
